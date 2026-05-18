@@ -58,4 +58,22 @@ Finally, **494,000 high-quality sentence pairs** (6.14% of original) were used f
 - **Environment:** Kaggle Notebook, Google Colab
 - **Hardware:** NVIDIA Tesla T4 GPU (16GB VRAM)
 
-## 📁 Repository Structure
+## 📄 References
+
+- Vaswani et al. (2017). *Attention Is All You Need* – NIPS
+- Papineni et al. (2002). *BLEU: a Method for Automatic Evaluation of Machine Translation* – ACL
+- Kudo & Richardson (2018). *SentencePiece* – EMNLP
+- Post (2018). *SacreBLEU* – WMT
+- Schwenk et al. (2019). *CCMatrix* – arXiv
+- [Helsinki-NLP/opus-mt-zh-vi](https://huggingface.co/Helsinki-NLP/opus-mt-zh-vi)
+- [chi-vi/hirashiba-mt-tiny-zh-vi](https://model.aibase.com/models/details/1915693253778890754)
+
+## 📅 Course
+
+Natural Language Processing – Final Project  
+Ho Chi Minh City University of Industry (IUH)  
+Supervisor: Dr. Bùi Thanh Hùng
+
+## 📜 License
+
+This project is for educational purposes only.
